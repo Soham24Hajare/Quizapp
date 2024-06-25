@@ -1,4 +1,4 @@
-# quizapp
+# Quizify
 
 A new Flutter project.
 
